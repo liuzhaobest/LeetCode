@@ -11,6 +11,9 @@ I feel that iterative method is better. Recursive method need to use the recursi
 So for linked list, we are trying to manipulate the links. To do that, sometimes we need
 multiple pointers.
  */
+/*
+Name change
+ */
 public class ReverseLinkedList {
     public static void main(String[] args)
     {
