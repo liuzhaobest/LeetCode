@@ -27,7 +27,6 @@ public class TwoSum {
         int[] answer = twoSum(arr,target);
         System.out.print(answer[0]);
         System.out.print(answer[1]);
-// check for github
     }
 
     // unsorted array part
