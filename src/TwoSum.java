@@ -24,7 +24,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class TwoSum {
-    // sorted array part
+    
     public static void main(String[] args)
     {
         int[] arr = {2,3,4};
@@ -51,6 +51,7 @@ public class TwoSum {
     }
 
 
+    // sorted array part
     public static int[] twoSumForSortedArray(int[] nums, int target) {
         int i =0, j = nums.length - 1;
         int[] re = {100,200};
