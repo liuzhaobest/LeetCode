@@ -1,4 +1,9 @@
 /*
+Author: Zhao Liu
+Email: Liuzhaobest@gmail.com
+Date: Nov 20 2019
+*/
+/*
 206. Reverse Linked List
 Reverse a singly linked list.
 Input: 1->2->3->4->5->NULL
