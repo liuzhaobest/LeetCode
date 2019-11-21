@@ -1,5 +1,10 @@
 import java.util.List;
 /*
+Author: Zhao Liu
+Email: Liuzhaobest@gmail.com
+Date: Nov 20 2019
+*/
+/*
 Given a sorted array, two integers k and x, find the k closest elements to x in the array. The result should also be sorted in ascending order. If there is a tie, the smaller elements are always preferred.
 
 Example 1:
